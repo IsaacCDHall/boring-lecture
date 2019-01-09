@@ -1,0 +1,12 @@
+.intro p{
+  color: green;
+}
+
+.intro h2{
+  color: yellow;
+}
+
+.intro img{
+width: 50%;
+height: 50%;
+}
